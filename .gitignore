@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Graphs
+*.png
+*.jpg
+*.pdf
+
+# Logs
+*.log
+*.db
+
+# Project specific
+temp/
+*.tmp
