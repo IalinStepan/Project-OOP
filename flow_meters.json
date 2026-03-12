@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "model": "FM603",
+    "type": "турбинный",
+    "diameter": 200.0,
+    "flow_min": 1.9,
+    "flow_max": 7.5,
+    "error": 0.009
+  },
+  {
+    "id": 2,
+    "model": "FM922",
+    "type": "турбинный",
+    "diameter": 50.0,
+    "flow_min": 1.2,
+    "flow_max": 4.4,
+    "error": 0.024
+  },
+  {
+    "id": 3,
+    "model": "FM322",
+    "type": "электромагнитный",
+    "diameter": 100.0,
+    "flow_min": 0.2,
+    "flow_max": 18.8,
+    "error": 0.041
+  },
+  {
+    "id": 4,
+    "model": "FM184",
+    "type": "кориолисов",
+    "diameter": 100.0,
+    "flow_min": 1.6,
+    "flow_max": 12.8,
+    "error": 0.026
+  },
+  {
+    "id": 5,
+    "model": "FM114",
+    "type": "ультразвуковой",
+    "diameter": 150.0,
+    "flow_min": 1.1,
+    "flow_max": 4.7,
+    "error": 0.012
+  },
+  {
+    "id": 6,
+    "model": "FM258",
+    "type": "электромагнитный",
+    "diameter": 80.0,
+    "flow_min": 0.9,
+    "flow_max": 13.0,
+    "error": 0.024
+  },
+  {
+    "id": 7,
+    "model": "FM875",
+    "type": "ультразвуковой",
+    "diameter": 80.0,
+    "flow_min": 1.7,
+    "flow_max": 11.8,
+    "error": 0.023
+  },
+  {
+    "id": 8,
+    "model": "FM651",
+    "type": "вихревой",
+    "diameter": 200.0,
+    "flow_min": 0.4,
+    "flow_max": 16.2,
+    "error": 0.008
+  },
+  {
+    "id": 9,
+    "model": "FM291",
+    "type": "кориолисов",
+    "diameter": 100.0,
+    "flow_min": 0.8,
+    "flow_max": 10.1,
+    "error": 0.013
+  },
+  {
+    "id": 10,
+    "model": "FM930",
+    "type": "вихревой",
+    "diameter": 200.0,
+    "flow_min": 0.3,
+    "flow_max": 3.0,
+    "error": 0.008
+  },
+  {
+    "id": 11,
+    "model": "FM788",
+    "type": "ультразвуковой",
+    "diameter": 25.0,
+    "flow_min": 0.8,
+    "flow_max": 18.3,
+    "error": 0.009
+  },
+  {
+    "id": 12,
+    "model": "FM709",
+    "type": "ультразвуковой",
+    "diameter": 25.0,
+    "flow_min": 2.0,
+    "flow_max": 6.9,
+    "error": 0.026
+  },
+  {
+    "id": 13,
+    "model": "FM187",
+    "type": "электромагнитный",
+    "diameter": 150.0,
+    "flow_min": 1.4,
+    "flow_max": 10.6,
+    "error": 0.046
+  },
+  {
+    "id": 14,
+    "model": "FM467",
+    "type": "вихревой",
+    "diameter": 200.0,
+    "flow_min": 1.7,
+    "flow_max": 4.6,
+    "error": 0.014
+  },
+  {
+    "id": 15,
+    "model": "FM998",
+    "type": "электромагнитный",
+    "diameter": 100.0,
+    "flow_min": 0.7,
+    "flow_max": 3.3,
+    "error": 0.031
+  },
+  {
+    "id": 16,
+    "model": "FM168",
+    "type": "вихревой",
+    "diameter": 200.0,
+    "flow_min": 0.9,
+    "flow_max": 19.0,
+    "error": 0.041
+  },
+  {
+    "id": 17,
+    "model": "FM440",
+    "type": "электромагнитный",
+    "diameter": 25.0,
+    "flow_min": 1.5,
+    "flow_max": 11.0,
+    "error": 0.013
+  },
+  {
+    "id": 18,
+    "model": "FM775",
+    "type": "ультразвуковой",
+    "diameter": 200.0,
+    "flow_min": 0.6,
+    "flow_max": 8.0,
+    "error": 0.028
+  },
+  {
+    "id": 19,
+    "model": "FM158",
+    "type": "ультразвуковой",
+    "diameter": 200.0,
+    "flow_min": 1.5,
+    "flow_max": 6.2,
+    "error": 0.028
+  },
+  {
+    "id": 20,
+    "model": "FM785",
+    "type": "вихревой",
+    "diameter": 80.0,
+    "flow_min": 1.5,
+    "flow_max": 14.8,
+    "error": 0.015
+  },
+  {
+    "id": 21,
+    "model": "FM998",
+    "type": "вихревой",
+    "diameter": 80.0,
+    "flow_min": 1.4,
+    "flow_max": 4.1,
+    "error": 0.02
+  },
+  {
+    "id": 22,
+    "model": "FM919",
+    "type": "вихревой",
+    "diameter": 150.0,
+    "flow_min": 1.9,
+    "flow_max": 13.3,
+    "error": 0.032
+  },
+  {
+    "id": 23,
+    "model": "FM397",
+    "type": "кориолисов",
+    "diameter": 25.0,
+    "flow_min": 1.7,
+    "flow_max": 7.7,
+    "error": 0.007
+  },
+  {
+    "id": 24,
+    "model": "FM759",
+    "type": "вихревой",
+    "diameter": 200.0,
+    "flow_min": 1.4,
+    "flow_max": 16.7,
+    "error": 0.012
+  },
+  {
+    "id": 25,
+    "model": "FM454",
+    "type": "кориолисов",
+    "diameter": 200.0,
+    "flow_min": 1.4,
+    "flow_max": 12.6,
+    "error": 0.009
+  },
+  {
+    "id": 26,
+    "model": "FM479",
+    "type": "кориолисов",
+    "diameter": 150.0,
+    "flow_min": 0.6,
+    "flow_max": 4.0,
+    "error": 0.045
+  },
+  {
+    "id": 27,
+    "model": "FM877",
+    "type": "турбинный",
+    "diameter": 25.0,
+    "flow_min": 0.9,
+    "flow_max": 4.8,
+    "error": 0.041
+  },
+  {
+    "id": 28,
+    "model": "FM417",
+    "type": "турбинный",
+    "diameter": 100.0,
+    "flow_min": 0.4,
+    "flow_max": 7.9,
+    "error": 0.049
+  },
+  {
+    "id": 29,
+    "model": "FM730",
+    "type": "вихревой",
+    "diameter": 100.0,
+    "flow_min": 0.6,
+    "flow_max": 14.7,
+    "error": 0.028
+  },
+  {
+    "id": 30,
+    "model": "FM132",
+    "type": "ультразвуковой",
+    "diameter": 100.0,
+    "flow_min": 0.9,
+    "flow_max": 16.1,
+    "error": 0.022
+  },
+  {
+    "id": 31,
+    "model": "FM439",
+    "type": "ультразвуковой",
+    "diameter": 50.0,
+    "flow_min": 0.8,
+    "flow_max": 10.2,
+    "error": 0.049
+  },
+  {
+    "id": 32,
+    "model": "FM315",
+    "type": "вихревой",
+    "diameter": 150.0,
+    "flow_min": 1.1,
+    "flow_max": 7.5,
+    "error": 0.006
+  },
+  {
+    "id": 33,
+    "model": "FM102",
+    "type": "кориолисов",
+    "diameter": 25.0,
+    "flow_min": 0.5,
+    "flow_max": 19.4,
+    "error": 0.019
+  },
+  {
+    "id": 34,
+    "model": "FM947",
+    "type": "вихревой",
+    "diameter": 80.0,
+    "flow_min": 1.7,
+    "flow_max": 4.6,
+    "error": 0.021
+  },
+  {
+    "id": 35,
+    "model": "FM246",
+    "type": "ультразвуковой",
+    "diameter": 100.0,
+    "flow_min": 1.7,
+    "flow_max": 16.1,
+    "error": 0.042
+  },
+  {
+    "id": 36,
+    "model": "FM636",
+    "type": "кориолисов",
+    "diameter": 200.0,
+    "flow_min": 1.3,
+    "flow_max": 14.4,
+    "error": 0.048
+  },
+  {
+    "id": 37,
+    "model": "FM382",
+    "type": "турбинный",
+    "diameter": 25.0,
+    "flow_min": 1.9,
+    "flow_max": 20.8,
+    "error": 0.028
+  },
+  {
+    "id": 38,
+    "model": "FM316",
+    "type": "электромагнитный",
+    "diameter": 150.0,
+    "flow_min": 1.9,
+    "flow_max": 17.6,
+    "error": 0.022
+  },
+  {
+    "id": 39,
+    "model": "FM139",
+    "type": "вихревой",
+    "diameter": 25.0,
+    "flow_min": 0.6,
+    "flow_max": 5.7,
+    "error": 0.03
+  },
+  {
+    "id": 40,
+    "model": "FM527",
+    "type": "электромагнитный",
+    "diameter": 50.0,
+    "flow_min": 0.3,
+    "flow_max": 16.7,
+    "error": 0.022
+  },
+  {
+    "id": 41,
+    "model": "FM525",
+    "type": "электромагнитный",
+    "diameter": 100.0,
+    "flow_min": 1.6,
+    "flow_max": 5.1,
+    "error": 0.018
+  },
+  {
+    "id": 42,
+    "model": "FM571",
+    "type": "вихревой",
+    "diameter": 200.0,
+    "flow_min": 0.6,
+    "flow_max": 18.6,
+    "error": 0.012
+  },
+  {
+    "id": 43,
+    "model": "FM445",
+    "type": "кориолисов",
+    "diameter": 80.0,
+    "flow_min": 0.9,
+    "flow_max": 4.5,
+    "error": 0.034
+  },
+  {
+    "id": 44,
+    "model": "FM959",
+    "type": "турбинный",
+    "diameter": 50.0,
+    "flow_min": 1.6,
+    "flow_max": 11.4,
+    "error": 0.03
+  },
+  {
+    "id": 45,
+    "model": "FM438",
+    "type": "вихревой",
+    "diameter": 150.0,
+    "flow_min": 0.6,
+    "flow_max": 14.7,
+    "error": 0.037
+  },
+  {
+    "id": 46,
+    "model": "FM209",
+    "type": "электромагнитный",
+    "diameter": 200.0,
+    "flow_min": 0.5,
+    "flow_max": 8.5,
+    "error": 0.032
+  },
+  {
+    "id": 47,
+    "model": "FM846",
+    "type": "кориолисов",
+    "diameter": 50.0,
+    "flow_min": 0.5,
+    "flow_max": 8.8,
+    "error": 0.034
+  },
+  {
+    "id": 48,
+    "model": "FM674",
+    "type": "кориолисов",
+    "diameter": 150.0,
+    "flow_min": 0.7,
+    "flow_max": 12.2,
+    "error": 0.019
+  },
+  {
+    "id": 49,
+    "model": "FM964",
+    "type": "вихревой",
+    "diameter": 50.0,
+    "flow_min": 0.5,
+    "flow_max": 14.4,
+    "error": 0.026
+  },
+  {
+    "id": 50,
+    "model": "FM599",
+    "type": "турбинный",
+    "diameter": 200.0,
+    "flow_min": 0.2,
+    "flow_max": 16.8,
+    "error": 0.045
+  }
+]

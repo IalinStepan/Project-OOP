@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "model": "HE109",
+    "area": 83.8,
+    "max_temp": 126.0,
+    "max_pressure": 23.0,
+    "medium": "пар"
+  },
+  {
+    "id": 2,
+    "model": "HE984",
+    "area": 3.4,
+    "max_temp": 123.0,
+    "max_pressure": 5.0,
+    "medium": "масло"
+  },
+  {
+    "id": 3,
+    "model": "HE381",
+    "area": 72.3,
+    "max_temp": 245.0,
+    "max_pressure": 13.0,
+    "medium": "воздух"
+  },
+  {
+    "id": 4,
+    "model": "HE635",
+    "area": 79.7,
+    "max_temp": 159.0,
+    "max_pressure": 21.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 5,
+    "model": "HE374",
+    "area": 58.1,
+    "max_temp": 286.0,
+    "max_pressure": 31.0,
+    "medium": "пар"
+  },
+  {
+    "id": 6,
+    "model": "HE255",
+    "area": 60.8,
+    "max_temp": 185.0,
+    "max_pressure": 11.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 7,
+    "model": "HE640",
+    "area": 4.2,
+    "max_temp": 283.0,
+    "max_pressure": 44.0,
+    "medium": "воздух"
+  },
+  {
+    "id": 8,
+    "model": "HE153",
+    "area": 6.8,
+    "max_temp": 188.0,
+    "max_pressure": 43.0,
+    "medium": "пар"
+  },
+  {
+    "id": 9,
+    "model": "HE243",
+    "area": 98.3,
+    "max_temp": 290.0,
+    "max_pressure": 48.0,
+    "medium": "пар"
+  },
+  {
+    "id": 10,
+    "model": "HE347",
+    "area": 89.9,
+    "max_temp": 98.0,
+    "max_pressure": 28.0,
+    "medium": "масло"
+  },
+  {
+    "id": 11,
+    "model": "HE307",
+    "area": 65.9,
+    "max_temp": 227.0,
+    "max_pressure": 39.0,
+    "medium": "масло"
+  },
+  {
+    "id": 12,
+    "model": "HE233",
+    "area": 15.0,
+    "max_temp": 277.0,
+    "max_pressure": 25.0,
+    "medium": "масло"
+  },
+  {
+    "id": 13,
+    "model": "HE110",
+    "area": 35.2,
+    "max_temp": 263.0,
+    "max_pressure": 33.0,
+    "medium": "воздух"
+  },
+  {
+    "id": 14,
+    "model": "HE603",
+    "area": 92.6,
+    "max_temp": 80.0,
+    "max_pressure": 25.0,
+    "medium": "пар"
+  },
+  {
+    "id": 15,
+    "model": "HE509",
+    "area": 37.8,
+    "max_temp": 144.0,
+    "max_pressure": 32.0,
+    "medium": "вода"
+  },
+  {
+    "id": 16,
+    "model": "HE946",
+    "area": 60.6,
+    "max_temp": 88.0,
+    "max_pressure": 8.0,
+    "medium": "воздух"
+  },
+  {
+    "id": 17,
+    "model": "HE927",
+    "area": 31.3,
+    "max_temp": 208.0,
+    "max_pressure": 19.0,
+    "medium": "воздух"
+  },
+  {
+    "id": 18,
+    "model": "HE253",
+    "area": 87.9,
+    "max_temp": 294.0,
+    "max_pressure": 22.0,
+    "medium": "масло"
+  },
+  {
+    "id": 19,
+    "model": "HE682",
+    "area": 82.4,
+    "max_temp": 127.0,
+    "max_pressure": 21.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 20,
+    "model": "HE984",
+    "area": 49.2,
+    "max_temp": 94.0,
+    "max_pressure": 38.0,
+    "medium": "масло"
+  },
+  {
+    "id": 21,
+    "model": "HE652",
+    "area": 83.6,
+    "max_temp": 261.0,
+    "max_pressure": 31.0,
+    "medium": "вода"
+  },
+  {
+    "id": 22,
+    "model": "HE754",
+    "area": 20.2,
+    "max_temp": 98.0,
+    "max_pressure": 35.0,
+    "medium": "масло"
+  },
+  {
+    "id": 23,
+    "model": "HE593",
+    "area": 84.5,
+    "max_temp": 231.0,
+    "max_pressure": 43.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 24,
+    "model": "HE308",
+    "area": 82.5,
+    "max_temp": 177.0,
+    "max_pressure": 32.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 25,
+    "model": "HE804",
+    "area": 11.7,
+    "max_temp": 278.0,
+    "max_pressure": 45.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 26,
+    "model": "HE826",
+    "area": 30.4,
+    "max_temp": 134.0,
+    "max_pressure": 37.0,
+    "medium": "воздух"
+  },
+  {
+    "id": 27,
+    "model": "HE720",
+    "area": 74.7,
+    "max_temp": 140.0,
+    "max_pressure": 28.0,
+    "medium": "масло"
+  },
+  {
+    "id": 28,
+    "model": "HE350",
+    "area": 74.4,
+    "max_temp": 294.0,
+    "max_pressure": 50.0,
+    "medium": "вода"
+  },
+  {
+    "id": 29,
+    "model": "HE762",
+    "area": 4.5,
+    "max_temp": 184.0,
+    "max_pressure": 29.0,
+    "medium": "пар"
+  },
+  {
+    "id": 30,
+    "model": "HE382",
+    "area": 87.4,
+    "max_temp": 246.0,
+    "max_pressure": 27.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 31,
+    "model": "HE431",
+    "area": 42.3,
+    "max_temp": 118.0,
+    "max_pressure": 10.0,
+    "medium": "пар"
+  },
+  {
+    "id": 32,
+    "model": "HE537",
+    "area": 7.4,
+    "max_temp": 262.0,
+    "max_pressure": 21.0,
+    "medium": "масло"
+  },
+  {
+    "id": 33,
+    "model": "HE397",
+    "area": 29.8,
+    "max_temp": 258.0,
+    "max_pressure": 48.0,
+    "medium": "пар"
+  },
+  {
+    "id": 34,
+    "model": "HE917",
+    "area": 24.6,
+    "max_temp": 227.0,
+    "max_pressure": 6.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 35,
+    "model": "HE210",
+    "area": 17.5,
+    "max_temp": 223.0,
+    "max_pressure": 13.0,
+    "medium": "вода"
+  },
+  {
+    "id": 36,
+    "model": "HE330",
+    "area": 12.6,
+    "max_temp": 177.0,
+    "max_pressure": 29.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 37,
+    "model": "HE132",
+    "area": 33.0,
+    "max_temp": 286.0,
+    "max_pressure": 13.0,
+    "medium": "вода"
+  },
+  {
+    "id": 38,
+    "model": "HE541",
+    "area": 81.4,
+    "max_temp": 248.0,
+    "max_pressure": 30.0,
+    "medium": "вода"
+  },
+  {
+    "id": 39,
+    "model": "HE951",
+    "area": 85.6,
+    "max_temp": 187.0,
+    "max_pressure": 23.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 40,
+    "model": "HE116",
+    "area": 79.4,
+    "max_temp": 237.0,
+    "max_pressure": 35.0,
+    "medium": "воздух"
+  },
+  {
+    "id": 41,
+    "model": "HE927",
+    "area": 94.1,
+    "max_temp": 94.0,
+    "max_pressure": 27.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 42,
+    "model": "HE785",
+    "area": 61.0,
+    "max_temp": 258.0,
+    "max_pressure": 14.0,
+    "medium": "масло"
+  },
+  {
+    "id": 43,
+    "model": "HE492",
+    "area": 56.1,
+    "max_temp": 167.0,
+    "max_pressure": 14.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 44,
+    "model": "HE786",
+    "area": 38.0,
+    "max_temp": 261.0,
+    "max_pressure": 23.0,
+    "medium": "масло"
+  },
+  {
+    "id": 45,
+    "model": "HE423",
+    "area": 9.7,
+    "max_temp": 160.0,
+    "max_pressure": 24.0,
+    "medium": "пар"
+  },
+  {
+    "id": 46,
+    "model": "HE701",
+    "area": 97.9,
+    "max_temp": 235.0,
+    "max_pressure": 13.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 47,
+    "model": "HE845",
+    "area": 35.3,
+    "max_temp": 115.0,
+    "max_pressure": 24.0,
+    "medium": "вода"
+  },
+  {
+    "id": 48,
+    "model": "HE392",
+    "area": 78.8,
+    "max_temp": 213.0,
+    "max_pressure": 31.0,
+    "medium": "пар"
+  },
+  {
+    "id": 49,
+    "model": "HE373",
+    "area": 88.4,
+    "max_temp": 86.0,
+    "max_pressure": 38.0,
+    "medium": "антифриз"
+  },
+  {
+    "id": 50,
+    "model": "HE829",
+    "area": 33.2,
+    "max_temp": 151.0,
+    "max_pressure": 43.0,
+    "medium": "масло"
+  }
+]
