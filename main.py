@@ -2,6 +2,7 @@ import json
 import csv
 import random
 from datetime import datetime, timedelta
+from charts import *
 
 import matplotlib.pyplot as plt
 
@@ -92,45 +93,18 @@ def generate_all_data():
     series = generate_time_series(he_sample, fm_sample, 120, delta_t=12)
     save_to_csv(series, "time_series.csv", ["time", "flow", "heat_flow", "delta_t"])
 
-def main():
-    generate_all_data()
-    times = []
-    flows = []
-    heat_flows = []
+generate_all_data()
+times = []
+flows = []
+heat_flows = []
 
-    with open("time_series.csv", "r", encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            dt = datetime.fromisoformat(row['time'])
-            times.append(dt)
-            flows.append(float(row['flow']))
-            heat_flows.append(float(row['heat_flow']))
+with open("time_series.csv", "r", encoding='utf-8') as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        dt = datetime.fromisoformat(row['time'])
+        times.append(dt)
+        flows.append(float(row['flow']))
+        heat_flows.append(float(row['heat_flow']))
 
-    # Построение графиков
-    plt.figure(figsize=(12, 5))
-
-    # График 1
-    plt.subplot(1, 2, 1)
-    plt.plot(times, flows, label='Расход (кг/с)', color='blue')
-    # тепловой поток в кВт
-    heat_kw = [h / 1000 for h in heat_flows]
-    plt.plot(times, heat_kw, label='Тепловой поток (кВт)', color='red')
-    plt.xlabel('Время')
-    plt.ylabel('Значение')
-    plt.title('Временной ряд измерений')
-    plt.legend()
-    plt.xticks(rotation=45)
-
-    # График 2
-    plt.subplot(1, 2, 2)
-    plt.scatter(flows, heat_kw, alpha=0.5, s=10)
-    plt.xlabel('Расход (кг/с)')
-    plt.ylabel('Тепловой поток (кВт)')
-    plt.title('Зависимость теплового потока от расхода')
-    plt.grid(True)
-
-    plt.tight_layout()
-    plt.show()
-
-if __name__ == "__main__":
-    main()
+plot1 = plot_heat_exchanger_characteristic()
+plot2 = plot_flow_meter_time_series()

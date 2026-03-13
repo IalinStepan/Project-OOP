@@ -88,6 +88,3 @@ def plot_flow_meter_time_series():
     plt.show()
     
     return fm
-
-he = plot_heat_exchanger_characteristic()
-fm = plot_flow_meter_time_series()
